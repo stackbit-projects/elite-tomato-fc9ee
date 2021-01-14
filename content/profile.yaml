@@ -5,7 +5,7 @@
   profession: Web Developer
   image: images/profile.jpg
   location: 'HYDERBAD,INDIA'
-  relocation: true
+  relocation: false
   company: Atomic Studio
   for_hire: true
   focus: Learning Gatsby
